@@ -1,0 +1,10 @@
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\bin\Debug\TRANSLATE.exe.config
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\bin\Debug\TRANSLATE.exe
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\bin\Debug\TRANSLATE.pdb
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\obj\Debug\TRANSLATE.csproj.AssemblyReference.cache
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\obj\Debug\TRANSLATE.Form1.resources
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\obj\Debug\TRANSLATE.Properties.Resources.resources
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\obj\Debug\TRANSLATE.csproj.GenerateResource.cache
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\obj\Debug\TRANSLATE.csproj.CoreCompileInputs.cache
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\obj\Debug\TRANSLATE.exe
+C:\Users\onurk\Desktop\Read To Word\TRANSLATE\TRANSLATE\obj\Debug\TRANSLATE.pdb
